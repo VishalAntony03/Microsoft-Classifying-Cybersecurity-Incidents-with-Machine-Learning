@@ -1,6 +1,6 @@
 # Microsoft Cybersecurity Incident Classification
 
-**Author:** Sripathi V R
+**Author:** Vishal Antony
 
 ## Project Overview
 
